@@ -73,23 +73,23 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ##  Script Descriptions
 
-### 🔹 Script 1 – System Information
+###  Script 1 – System Information
 
 Displays basic system details such as OS, hostname, and user information.
 
-### 🔹 Script 2 – Kernel Information
+###  Script 2 – Kernel Information
 
 Shows the Linux kernel version and detects whether the system is running on WSL or native Linux.
 
-### 🔹 Script 3 – Disk & Permission Auditor
+###  Script 3 – Disk & Permission Auditor
 
 Analyzes important system directories and displays their permissions and size.
 
-### 🔹 Script 4 – Log Analyzer
+###  Script 4 – Log Analyzer
 
 Searches log files for a specific keyword and counts occurrences.
 
-### 🔹 Script 5 – Manifest Generator
+###  Script 5 – Manifest Generator
 
 Generates a simple open source manifesto based on user input.
 
