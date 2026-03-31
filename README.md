@@ -5,9 +5,9 @@ Open Source Audit Project on Linux Kernel with 5 shell scripts and report.
 
 ##  Student Details
 
-**Name:** Kuldeep
-**Roll no.** 24BAI10587
-**Course:** Open Source Software
+**Name:** Kuldeep <br>
+**Roll no.** 24BAI10587 <br>
+**Course:** Open Source Software <br>
 **Project Title:** Linux Kernel Audit using Bash Scripts on Ubuntu (WSL)
 
 ---
